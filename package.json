@@ -1,0 +1,24 @@
+{
+  "name": "project3-3200",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivaharim23/Project3-3200.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sivaharim23/Project3-3200/issues"
+  },
+  "homepage": "https://github.com/sivaharim23/Project3-3200#readme",
+  "dependencies": {
+    "redis": "^5.12.1"
+  }
+}
